@@ -31,15 +31,15 @@ GD
 
 #For the "mean"
 mean_x <- mean(GD)
-mean_x
+round(mean_x, 2)
 
 #For the "variance"
 var_x <- var(GD)
-var_x
+round(var_x, 2)
 
 #For the "standard deviation"
 sd_x <- sd(GD) 
-sd_x
+round(sd_x, 2)
 
 # FOR NUMBER 3 & 4 (END)
 
